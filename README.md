@@ -1,5 +1,5 @@
 📊 PREDICTIVE ANALYTICS FOR DYNAMIC STOCK PORTFOLIO MANAGEMENT
-🧠 Overview
+🧠 Overview:
 
 The stock market is a highly dynamic and volatile ecosystem influenced by financial, political, and social factors. Traditional analytical methods often fail to interpret market volatility due to its non-linear and unpredictable nature, leading to unreliable forecasts and poor investment decisions.
 
